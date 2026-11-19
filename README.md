@@ -1,6 +1,7 @@
 # Project-1-sequence-analysis
 This is an analysis on NGS mutations in data sequencing.
-The purpose of this program is to identify and characterise the mismatches that show up in the sample data provided. It will also allow us to inspect how DNA mutations change between each of the samples provided.
+
+The purpose of this program is to identify and characterise the mismatches that show up in the sample data provided. It will also allow us to inspect how DNA mutations change between each of the samples.
 It expects the input of the data sample and outputs a combination of treated, untreated and control samples
 My code design consists of validating the read data by preventing any future error flags, this is shown through: 
 
